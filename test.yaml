@@ -1,3 +1,4 @@
+app: 1
 AppServer:
   AppEnv: dev
   AppDebug: true
